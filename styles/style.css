@@ -3,9 +3,17 @@ body {
     font-family: 'Lobster', cursive;
     font-family: 'Cormorant Garamond', serif;
 }
+
 legend {
 font-size: 3rem;
 }
+
+#img-caption {
+	font-size: 1rem;
+	text-align: center;
+	margin: 1%;
+}
+
 div {
     padding: 1rem;
 }
